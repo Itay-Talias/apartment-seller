@@ -1,4 +1,4 @@
-//You should not be touching this file. This is just your data. 
+//You should not be touching this file. This is just your data.
 //You can certainly explore this file to get to know your data.
 
 const apartments = [
@@ -11,8 +11,8 @@ const apartments = [
         immediate: true,
         contactDetails: {
             name: "Douglas",
-            email: "doug@less.com"
-        }
+            email: "doug@less.com",
+        },
     },
     {
         img: "https://i.pinimg.com/736x/17/f2/6e/17f26e8f188af5d3e377dacb2011889a--mediterranean-houses-mediterranean-style.jpg",
@@ -23,8 +23,8 @@ const apartments = [
         immediate: false,
         contactDetails: {
             name: "William",
-            email: "will@i.am"
-        }
+            email: "will@i.am",
+        },
     },
     {
         img: "https://blenderartists.org/uploads/default/original/4X/2/f/9/2f9d2a683dd5eada8bf64a590aa20a01312509ca.jpg",
@@ -35,8 +35,8 @@ const apartments = [
         immediate: true,
         contactDetails: {
             name: "Rickay",
-            email: "rrrrick@cucumber.com"
-        }
+            email: "rrrrick@cucumber.com",
+        },
     },
     {
         img: "http://mat2.materialicious.com/images/space-house-803-o.jpg",
@@ -47,8 +47,8 @@ const apartments = [
         immediate: false,
         contactDetails: {
             name: "Charles",
-            email: "charles.smith@coldmail.com"
-        }
+            email: "charles.smith@coldmail.com",
+        },
     },
     {
         img: "http://www.kucasnova.com/wp-content/uploads/2014/01/projekat-kuce-sa-potkrovljem-i-garazom-4-1.jpg",
@@ -59,7 +59,7 @@ const apartments = [
         immediate: true,
         contactDetails: {
             name: "Trevor",
-            email: "t@noah.ark"
-        }
-    }
-]
+            email: "t@noah.ark",
+        },
+    },
+];
